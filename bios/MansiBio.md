@@ -4,11 +4,11 @@ I grew up in Fremont, California (the last stop on Bart)! I knew I wanted to sta
 
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
 
-I’d never programmed before coming to Cal, so my first exposure to computer science was actually in CS10! Since then, I’ve taken a computer science class every semester, and I’ve programmed in Snap!, python, Java, and R.
+I’d never programmed before coming to Cal, so my first exposure to computer science was actually in CS10! Since then, I’ve taken a computer science class every semester, and I’ve programmed in Snap!, Python, Java, Javascript, and R.
 
 ## WHAT ARE YOUR HOBBIES?
 
 I really enjoy learning new things, watching TV, and singing (though I’m not very good at it).
 
-## WHAT ARE SOME OF YOUR TALENTS & SKILLS?
-My classes (CS70, Stat 134, Stat 133, Data 8), teaching CS10, research, and some awesome clubs :)
+## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
+This semester, I'm taking CS170: Algorithms, CS186: Databases, Ling100: Intro to Linguistics, and Data100: Principles of Data Science. In addition to that, I'll be doing research and applying to jobs!
